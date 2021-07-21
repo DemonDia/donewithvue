@@ -1,8 +1,10 @@
 {
+  "homepage":"http://Demondia.github.io/donewithvue",
   "name": "donewithvue",
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "deploy":"gh-[ages -d build",
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
